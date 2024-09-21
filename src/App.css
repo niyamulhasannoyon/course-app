@@ -1,7 +1,23 @@
 .App {
   text-align: center;
 }
-
+.box{
+  padding: 20px;
+  width: 70%;
+}
+.folder{
+  display: flex;
+}
+.cart{
+  width: 30%;
+  
+}
+body{
+  background: #53A091;
+  background: linear-gradient(135deg, #53A091, #1D3F71);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
